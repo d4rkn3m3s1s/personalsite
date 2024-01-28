@@ -1,13 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-05-14'
+title: 'Full Stack Developer Intern'
+company: 'Counsel Hero'
+location: 'California, USA'
+range: 'May 2022 - 2023'
+url: 'https://counselhero.com//'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News ve daha fazlası dahil olmak üzere müşteriler için çeşitli projeler için yüksek kaliteli, sağlam üretim kodu sunu
+- İş gereksinimlerini karşılayacak teknik çözümlerin araştırılmasına, geliştirilmesine ve mimarisine liderlik etmek için yaratıcı yönetmenlerle birlikte çalışmak
+- Yaratıcı konseptleri müşteriler ve paydaşlar için üretim gerçeklerine dönüştürmek üzere tasarımcılar, proje yöneticileri ve diğer mühendislerle işbirliği yapmak
+- Yakın işbirliği, bilgi paylaşımı ve mentorluk yoluyla mühendislik departmanı içinde liderlik sağlamak

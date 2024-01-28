@@ -55,17 +55,17 @@ const Contact = () => {
 
   return (
     <StyledContactSection id="contact" ref={revealContainer}>
-      <h2 className="numbered-heading overline">What’s Next?</h2>
+      <h2 className="numbered-heading overline">İletişim</h2>
 
-      <h2 className="title">Get In Touch</h2>
+      <h2 className="title">Bana Ulaşmak ister misin?</h2>
 
       <p>
-        Although I’m not currently looking for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+        Şu anda yeni fırsatlar arıyorum ve gelen kutum her zaman açık. Bir sorunuz olsun ya da
+        sadece merhaba demek isteyin, size geri dönmek için elimden geleni yapacağım!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+        Merhaba de!
       </a>
     </StyledContactSection>
   );

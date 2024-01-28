@@ -59,29 +59,26 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Merhaba! Ben,</h1>;
+  const two = <h2 className="big-heading">Furkan Ulutaş</h2>;
+  const three = <h1 className="big-heading">Developer | Programmer</h1>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        Merhaba! Ben Furkan, 15 yaşından beri yazılıma olan ilgimle beni buraya sürükedi. O
+        zamanlarda CTF yarışmalarına katılarak küçük çaplı web siteleri geliştirmeye başladım.
+        Zamanla, bu ilgiyi profesyonel bir kariyere dönüştürme kararı alarak üniversitede yazılım
+        bölümünü seçtim. Eğitimimi tamamlamak ve kendimi geliştirmek adına Amerika merkezli
+        ClarusWay bootcampinde Full Stack Developerlık kursuna katıldım. Bu süreçte, Silikon
+        Vadisi'nde bulunan CounselHero şirketinde staj yapma fırsatı elde ettim. Şimdi, yazılım
+        dünyasında profesyonel olarak kendimi geliştiriyor, yeniliklere ve projelere katkı sağlamaya
+        devam ediyorum.
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    <a className="email-link" href="mailto:four.ulu24@gmail.com" target="_blank" rel="noreferrer">
+      Bana Ulaşın!
     </a>
   );
 

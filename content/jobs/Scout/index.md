@@ -1,11 +1,13 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2023-05-18'
+title: 'E-Ticaret'
+company: 'Mahzemin'
+location: 'Dijital Market'
+range: '2023 , Günümüz'
+url: 'https://www.trendyol.com/magaza/mahzemin-m-875915?sst=0'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Kullanıcı dostu ve marka uyumlu bir tasarım oluşturarak web sitemi yayına alıyorum
+- Google Analytics gibi araçlar kullanarak web sitenin performansını izleyip, müşteri geri bildirimlerini değerlendiriyorum
+- İş ihtiyaçlarıma uygun bir e-ticaret platformu seçerek online mağazamı oluşturuyorum
+- SEO stratejileri, sosyal medya pazarlama ve dijital reklam kampanyaları ile müşteri çekmeyi hedefliyorum
