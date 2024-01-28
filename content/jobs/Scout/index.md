@@ -3,7 +3,7 @@ date: '2023-05-18'
 title: 'E-Ticaret'
 company: 'Mahzemin'
 location: 'Dijital Market'
-range: '2023 , Günümüz'
+range: '2023 Mayıs - Günümüz'
 url: 'https://www.trendyol.com/magaza/mahzemin-m-875915?sst=0'
 ---
 

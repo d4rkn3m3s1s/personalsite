@@ -9,4 +9,4 @@ tech:
 showInProjects: true
 ---
 
-Simple website to display some of my favorite font pairings combined with some fun lorem ipsum variations found on the web.
+Bu proje, web üzerinde bulduğum eğlenceli lorem ipsum varyasyonları ile birlikte tercih ettiğim font kombinasyonlarını gösteren basit bir web sitesidir.

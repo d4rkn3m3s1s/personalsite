@@ -65,14 +65,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Merhaba! Ben Furkan, 15 yaşından beri yazılıma olan ilgimle beni buraya sürükedi. O
-        zamanlarda CTF yarışmalarına katılarak küçük çaplı web siteleri geliştirmeye başladım.
-        Zamanla, bu ilgiyi profesyonel bir kariyere dönüştürme kararı alarak üniversitede yazılım
-        bölümünü seçtim. Eğitimimi tamamlamak ve kendimi geliştirmek adına Amerika merkezli
-        ClarusWay bootcampinde Full Stack Developerlık kursuna katıldım. Bu süreçte, Silikon
-        Vadisi'nde bulunan CounselHero şirketinde staj yapma fırsatı elde ettim. Şimdi, yazılım
-        dünyasında profesyonel olarak kendimi geliştiriyor, yeniliklere ve projelere katkı sağlamaya
-        devam ediyorum.
+        Merhaba! Ben Furkan, 15 yaşımdan beri yazılıma olan ilgim beni buraya sürükedi. O zamanlarda
+        CTF yarışmalarına katılarak küçük çaplı web siteleri geliştirmeye başladım. Zamanla, bu
+        ilgiyi profesyonel bir kariyere dönüştürme kararı alarak üniversitede yazılım bölümünü
+        seçtim. Eğitimimi tamamlamak ve kendimi geliştirmek adına Amerika merkezli ClarusWay
+        bootcampinde Full Stack Developerlık kursuna katıldım. Bu süreçte, Silikon Vadisi'nde
+        bulunan CounselHero şirketinde staj yapma fırsatı elde ettim. Şimdi, yazılım dünyasında
+        profesyonel olarak kendimi geliştiriyor, yeniliklere ve projelere katkı sağlamaya devam
+        ediyorum.
       </p>
     </>
   );

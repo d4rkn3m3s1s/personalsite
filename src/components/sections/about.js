@@ -27,6 +27,7 @@ const StyledText = styled.div`
     margin: 20px 0 0 0;
     overflow: hidden;
     list-style: none;
+    color: var(--white);
 
     li {
       position: relative;
@@ -34,12 +35,13 @@ const StyledText = styled.div`
       padding-left: 20px;
       font-family: var(--font-mono);
       font-size: var(--fz-xs);
+      color: var(--white);
 
       &:before {
         content: '▹';
         position: absolute;
         left: 0;
-        color: var(--green);
+        color: var(--white);
         font-size: var(--fz-sm);
         line-height: 12px;
       }

@@ -1,15 +1,21 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Natours Project'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/d4rkn3m3s1s/natours-frontend'
+external: 'https://d4rkn3m3s1s.github.io/natours-frontend/'
 tech:
   - React
   - Styled Components
   - Express
-  - Spotify API
-  - Heroku
+  - RESTful API
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Designed RESTful APIs for an outdoor touring company (natours frontend application). I implemented APIs for:
+
+1. User registration
+2. User authentication & authorization
+3. Updating user profile
+4. Getting all Tours within a geolocation
+5. Getting top 5 tours based on price, rating, and location
+6. Writing user reviews on each tour experience

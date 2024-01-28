@@ -1,15 +1,14 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+title: 'Fontipsums'
+github: 'https://github.com/d4rkn3m3s1s/fontsums'
+external: 'https://d4rkn3m3s1s.github.io/fontsums/'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - HTML
+  - CSS
+
+company: 'AnonAlien'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Bu proje, web üzerinde bulduğum eğlenceli lorem ipsum varyasyonları ile birlikte tercih ettiğim font kombinasyonlarını gösteren basit bir web sitesidir.

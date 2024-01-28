@@ -3,7 +3,7 @@ date: '2024-01-15'
 title: 'Software Developer'
 company: 'NexCorner'
 location: 'Turkey, TR'
-range: 'Ocak - Günümüz'
+range: '2024 Ocak - Günümüz'
 url: 'https://nexcorner.blogspot.com/'
 ---
 

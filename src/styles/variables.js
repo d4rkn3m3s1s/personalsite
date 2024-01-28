@@ -6,10 +6,10 @@ const variables = css`
     --navy: #babfc9;
     --light-navy: #515867;
     --lightest-navy: #000000;
-    --navy-shadow: #babfc9;
+    --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #babfc9;
     --slate: #515867;
-    --light-slate: #000000;
+    --light-slate: rgba(2, 12, 27, 0.7);
     --lightest-slate: #000000;
     --white: #000000;
     --green: #000000;

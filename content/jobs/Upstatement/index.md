@@ -3,11 +3,11 @@ date: '2022-05-14'
 title: 'Full Stack Developer Intern'
 company: 'Counsel Hero'
 location: 'California, USA'
-range: 'May 2022 - 2023'
+range: '2022 Mayıs - 2023'
 url: 'https://counselhero.com//'
 ---
 
-- Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News ve daha fazlası dahil olmak üzere müşteriler için çeşitli projeler için yüksek kaliteli, sağlam üretim kodu sunu
-- İş gereksinimlerini karşılayacak teknik çözümlerin araştırılmasına, geliştirilmesine ve mimarisine liderlik etmek için yaratıcı yönetmenlerle birlikte çalışmak
-- Yaratıcı konseptleri müşteriler ve paydaşlar için üretim gerçeklerine dönüştürmek üzere tasarımcılar, proje yöneticileri ve diğer mühendislerle işbirliği yapmak
-- Yakın işbirliği, bilgi paylaşımı ve mentorluk yoluyla mühendislik departmanı içinde liderlik sağlamak
+- Frontend ve backend geliştirme süreçlerinde ekip üyeleri arasında koordinasyonu sağlayarak, platformun genel hedefleri doğrultusunda çözümler ürettik.
+- Platformda gerçekleşen etkileşimleri değerlendirmek amacıyla veri analitiği yöntemlerini kullandım.
+- Full stack developer olarak, öğrenci danışmanlık platformunda kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarımından sorumlu oldum. Frontend tarafında, etkileşimli özellikler ekleyerek ve kullanıcı dostu arayüzler oluşturarak platformun görsel yönünü geliştirdim. Backend tarafında ise bu özelliklerin işleyişini sağlamak için gerekli olan programlamaları gerçekleştirdim.
+- Full stack geliştirici olarak, platformun teknik altyapısını güncel tutmak ve güvenlik standartlarına uygunluğunu sağlamak benim sorumluluğumdaydı. En son yazılım geliştirme teknolojilerini takip ederek, platformun geleceğe yönelik sürdürülebilir ve ölçeklenebilir bir yapıda olmasını sağladım.

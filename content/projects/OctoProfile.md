@@ -1,7 +1,7 @@
 ---
 date: '2019-07-15'
 title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
+github: 'https://github.com/d4rkn3m3s1s/octoprofile'
 external: 'https://octoprofile.now.sh'
 tech:
   - Next.js
@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Bu proje, GitHub profiliniz ve depolarınızın istatistiklerini daha şık bir görünüme kavuşturan bir uygulamadır. En çok kullandığınız dilleri, favorilediğiniz depoları ve depolarınızı yıldız sayısına, fork sayısına ve boyuta göre sıralama imkanı sunar.
