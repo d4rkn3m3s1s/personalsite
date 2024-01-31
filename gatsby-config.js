@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Furkan Ulutaş',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Furkan Ulutaş is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+    siteUrl: 'https://furkanulutas.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@d4rkn3m3s1s',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Furkan Ulutaş',
+        short_name: 'Furkan Ulutaş',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
