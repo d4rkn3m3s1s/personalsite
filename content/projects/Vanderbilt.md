@@ -1,8 +1,8 @@
 ---
 date: '2021-06-01'
-title: 'Vanderbilt Design System'
+title: ''
 github: ''
-external: 'https://www.vanderbilt.edu/'
+external: ''
 tech:
   - Twig
   - Puppy

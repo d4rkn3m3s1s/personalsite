@@ -1,8 +1,8 @@
 ---
 date: '2022-08-08'
-title: 'Pratt'
+title: ''
 github: ''
-external: 'https://www.pratt.edu/'
+external: ''
 tech:
   - WordPress
   - Timber

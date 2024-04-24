@@ -1,8 +1,8 @@
 ---
 date: '2018-12-01'
-title: 'Devoted Health'
+title: ''
 github: ''
-external: 'https://www.devoted.com/'
+external: ''
 tech:
   - Gatsby
   - TypeScript

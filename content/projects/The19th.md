@@ -1,8 +1,8 @@
 ---
 date: '2020-08-02'
-title: 'The 19th News'
+title: ''
 github: ''
-external: 'https://19thnews.org/'
+external: ''
 tech:
   - WordPress
   - Timber

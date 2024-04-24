@@ -1,8 +1,8 @@
 ---
 date: '2018-10-01'
-title: 'Flagship Pioneering'
+title: ''
 github: ''
-external: 'https://www.flagshippioneering.com/'
+external: ''
 tech:
   - Craft CMS
   - Chart.js
