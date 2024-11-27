@@ -181,10 +181,19 @@ const Nav = ({ isHome }) => {
   const fadeClass = isHome ? 'fade' : '';
   const fadeDownClass = isHome ? 'fadedown' : '';
 
+  const playmusic = () => {
+		const player = document.getElementById('amksesi');
+		if (player.paused) {
+			player.play();
+		} else {
+			player.pause();
+		}
+	};
+  
   const Logo = (
     <div className="logo" tabIndex="-1">
       {isHome ? (
-        <a href="/" aria-label="home">
+        <a href="#" aria-label="home" onClick={playmusic}>
           <div className="hex-container">
             <IconHex />
           </div>
@@ -193,7 +202,7 @@ const Nav = ({ isHome }) => {
           </div>
         </a>
       ) : (
-        <Link to="/" aria-label="home">
+        <Link to="/" aria-label="home" onClick={playmusic}>
           <div className="hex-container">
             <IconHex />
           </div>
@@ -202,6 +211,9 @@ const Nav = ({ isHome }) => {
           </div>
         </Link>
       )}
+      <audio className="hidden" id="amksesi">
+				<source src="nightmare.mp3" type="audio/wav"/>
+			</audio>
     </div>
   );
 
